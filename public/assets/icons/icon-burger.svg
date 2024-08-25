@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/burger</title>
+    <g id="Startseite---Integration-freenet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fn.de-Tablet-768" transform="translate(-732.000000, -229.000000)" fill="#21314D">
+            <g id="Modul/Navi/Channel/Color-1320" transform="translate(453.000000, 215.000000)">
+                <g id="icon/burger" transform="translate(279.000000, 14.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle" x="0" y="5" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle" x="0" y="10" width="16" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

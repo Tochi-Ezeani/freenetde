@@ -1,0 +1,335 @@
+#frn-loginbox a[data-v-5527d00e] {
+  text-decoration: none;
+  font-size: 1em;
+  color: #fff;
+}
+#frn-loginbox .frn_button[data-v-5527d00e] {
+  text-transform: uppercase;
+  font-size: 1rem;
+  text-align: center;
+  border: none;
+  font-weight: 700;
+  background: #092043;
+  padding: 6px 13px;
+  display: inline-block;
+}
+#frn-loginbox .frn_button[data-v-5527d00e]:hover {
+  background: #162133;
+}
+#frn-loginbox .light[data-v-5527d00e] {
+  background: #828999;
+}
+#frn-loginbox .light[data-v-5527d00e]:hover {
+  background: #4e5a75;
+}
+#frn-loginbox .frn_button[data-v-5527d00e]:link,
+#frn-loginbox .frn_button[data-v-5527d00e]:visited {
+  color: #fff;
+  text-decoration: none;
+}
+#frn-loginbox .frn_subPage[data-v-5527d00e] {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 6px 0;
+}
+#frn-loginbox .frn_subPage .frn_button[data-v-5527d00e] {
+  font-size: 0.8rem;
+  padding: 3px 9px;
+  white-space: nowrap;
+  background-color: #84bc34;
+}
+#frn-loginbox .frn_subPage .frn_button[data-v-5527d00e]:last-of-type {
+  margin-left: 5px;
+  background-color: #092043;
+}
+#frn-loginbox .wrapper[data-v-54d73876] {
+  padding: 11px 20px 9px 20px;
+  text-align: left;
+}
+#frn-loginbox .wrapper .buttons[data-v-54d73876] {
+  margin: 11px 0 0 0;
+  display: flex;
+  white-space: nowrap;
+}
+#frn-loginbox .logout[data-v-54d73876] {
+  flex: 1;
+  margin-right: 12px;
+}
+#frn-loginbox .nameLine[data-v-54d73876] {
+  color: #fff;
+  font-size: 18px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: normal;
+  white-space: nowrap;
+}
+#frn-loginbox .login-logo[data-v-54d73876] {
+  margin-bottom: 13px;
+  color: #fff;
+  font-size: 22px;
+}
+#frn-loginbox .frn_loginBoxTrenner[data-v-54d73876] {
+  border-bottom: 2px solid #c2de9a;
+  margin: 0 0 3px;
+  border-top: none;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+#frn-loginbox .frn-white .login-logo[data-v-54d73876],
+#frn-loginbox .frn-white .nameLine[data-v-54d73876] {
+  color: #000 !important;
+}
+#frn-loginbox .frn_subPage[data-v-54d73876] {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 6px 0;
+}
+#frn-loginbox .frn_subPage .nameLineSub[data-v-54d73876] {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 185px;
+  line-height: 1rem;
+  font-size: 1rem;
+  white-space: nowrap;
+  font-weight: 700;
+  padding: 4px 10px 0 0;
+}
+[data-v-5b855f55]::-moz-placeholder {
+  color: grey;
+  opacity: 1;
+}
+[data-v-5b855f55]::placeholder {
+  color: grey;
+}
+#frn-loginbox .login-button-container[data-v-5b855f55] {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+#frn-loginbox .frn_loginBoxRegister[data-v-5b855f55] {
+  margin: 0 auto;
+  text-align: center;
+}
+#frn-loginbox a[data-v-5b855f55] {
+  text-decoration: none;
+  font-size: 1em;
+  color: #fff !important;
+}
+#frn-loginbox .frn_loginBoxTrenner[data-v-5b855f55] {
+  border-bottom: 2px solid #c2de9a;
+  border-top: none;
+}
+#frn-loginbox input[data-v-5b855f55] {
+  width: 100%;
+  height: 29px;
+  float: none;
+  margin-top: 0;
+  margin-bottom: 1px;
+  padding: 2px 0 0 15px;
+  border: 1px solid #fff;
+  font-family: Roboto Condensed, Arial, Helvetica, sans-serif;
+  color: #333;
+  font-size: 1.3em;
+  overflow: hidden;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  line-height: normal !important;
+}
+#frn-loginbox .frn-white input[data-v-5b855f55] {
+  background-color: #f1f1f1 !important;
+}
+#frn-loginbox .hasError[data-v-5b855f55] {
+  border: 1px solid #e20001;
+}
+#frn-loginbox .login-main[data-v-5b855f55] {
+  padding: 9px 20px;
+}
+#frn-loginbox .login-main .login-logo[data-v-5b855f55] {
+  margin-bottom: 18px;
+  color: #fff;
+  font-size: 22px;
+}
+#frn-loginbox .login-main .login-logo p[data-v-5b855f55] {
+  margin: 0;
+}
+#frn-loginbox .login-main .login-logo.frn-white[data-v-5b855f55] {
+  color: #000;
+}
+#frn-loginbox .login-main .login_area[data-v-5b855f55] {
+  display: flex;
+  justify-content: space-between;
+  padding: 11px 0 0 0;
+}
+#frn-loginbox .login-main .login_area .help a[data-v-5b855f55] {
+  font-size: 0.75rem;
+  line-height: 1.4rem;
+}
+#frn-loginbox .login-main .login_area div[data-v-5b855f55] {
+  width: 50%;
+}
+#frn-loginbox .login-main .login_area div[data-v-5b855f55]:only-child {
+  width: 100%;
+}
+#frn-loginbox .login-main.world_4[data-v-5b855f55] {
+  padding-bottom: 20px;
+}
+#frn-loginbox .form-footer[data-v-5b855f55] {
+  padding: 0 20px 9px 20px;
+}
+#frn-loginbox .form-footer.portal[data-v-5b855f55] {
+  background: #e7ebf2;
+}
+#frn-loginbox .form-footer.portal .frn_button[data-v-5b855f55] {
+  background-color: #84bc34;
+}
+#frn-loginbox .form-footer .frn_subLogin[data-v-5b855f55] {
+  display: block;
+  font-size: 11px;
+}
+#frn-loginbox .form-footer .frn_subLogin .frn_subLoginLabel[data-v-5b855f55] {
+  color: #21314d;
+  font-size: 1.38rem;
+  line-height: 1.6rem;
+  padding: 15px 0 5px 0;
+  font-weight: 600;
+}
+#frn-loginbox
+  .form-footer
+  .frn_subLogin
+  .frn_subLoginLabel
+  ul[data-v-5b855f55] {
+  margin: 0;
+  padding: 23px 0 2px 0;
+}
+#frn-loginbox
+  .form-footer
+  .frn_subLogin
+  .frn_subLoginLabel
+  ul
+  li[data-v-5b855f55] {
+  margin: 0 0 16px 0;
+  padding: 0 0 0 50px;
+  list-style: none;
+  font-size: 1.13rem;
+  line-height: 1.5rem;
+  font-weight: 300;
+  background-image: url(https://components.freenet.de/assets/Login/cloud.svg);
+  background-repeat: no-repeat;
+}
+#frn-loginbox
+  .form-footer
+  .frn_subLogin
+  .frn_subLoginLabel
+  ul
+  li[data-v-5b855f55]:first-of-type {
+  background-image: url(https://components.freenet.de/assets/Login/mail.svg);
+  background-position-x: 2px;
+  background-size: 30px;
+}
+#frn-loginbox
+  .form-footer
+  .frn_subLogin
+  .frn_subLoginLabel
+  ul
+  li[data-v-5b855f55]:last-of-type {
+  background-image: url(https://components.freenet.de/assets/Login/WiFi-Icon.svg);
+  background-position-x: 1px;
+}
+#frn-loginbox
+  .form-footer
+  .frn_subLogin
+  .frn_subLoginLabel.frn-white[data-v-5b855f55] {
+  color: #aaa !important;
+}
+#frn-loginbox .frnLoginSubmit[data-v-5b855f55] {
+  float: right;
+  text-transform: uppercase;
+  background: #092043;
+  color: #fff;
+  border: none;
+  padding: 0 19px;
+  cursor: pointer;
+  outline: none;
+  height: 30px;
+  vertical-align: middle;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6em;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  font-weight: 700;
+}
+#frn-loginbox .grayText[data-v-5b855f55] {
+  color: #aaa !important;
+}
+#frn-loginbox div[data-v-3a6d9a55] {
+  color: #fff;
+}
+#frn-loginbox .error[data-v-3a6d9a55] {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+#frn-loginbox .error[data-v-3a6d9a55]:before {
+  content: "";
+  width: 24px;
+  height: 21px;
+  background-image: url(https://components.freenet.de/assets/Login/Error.svg);
+  background-repeat: no-repeat;
+}
+#frn-loginbox .error span.title[data-v-3a6d9a55] {
+  padding-top: 0 !important;
+}
+#frn-loginbox .frn-white .message[data-v-3a6d9a55],
+#frn-loginbox .frn-white .title[data-v-3a6d9a55] {
+  color: #000 !important;
+}
+#frn-loginbox .frn-white .error[data-v-3a6d9a55]:before {
+  background-image: url(https://components.freenet.de/assets/Login/Error_black.svg);
+}
+#frn-loginbox .frn-white .message a.error_link {
+  color: #000 !important;
+}
+#frn-loginbox div[data-v-4071a09c] {
+  color: #fff;
+}
+#frn-loginbox .red[data-v-4071a09c] {
+  background-color: #df002e;
+}
+#frn-loginbox .blue[data-v-4071a09c] {
+  background-color: #092043;
+}
+#frn-loginbox .frn-white .message[data-v-4071a09c] {
+  color: #000 !important;
+}
+.root[data-v-6b844564] {
+  font: normal 11px Open Sans, Arial, Helvetica, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.loginbox[data-v-6b844564] {
+  text-align: left;
+}
+.loginbox .frn-white .message a[data-v-6b844564] {
+  color: #000 !important;
+}
+#frn-loginbox .loginbox[data-v-6b844564] {
+  text-align: left;
+  max-width: 304px;
+  height: auto;
+}
+#frn-loginbox .loginbox.mobile[data-v-6b844564] {
+  width: 100% !important;
+  max-width: none;
+}
+#frn-loginbox .green[data-v-6b844564] {
+  background-color: #84bc34;
+}
+#frn-loginbox .white[data-v-6b844564] {
+  background-color: #fff;
+}
+#frn-loginbox .hidden[data-v-6b844564] {
+  display: none;
+}
+#frn-loginbox.frn_subPage .isLoggedIn[data-v-6b844564] {
+  height: auto !important;
+}

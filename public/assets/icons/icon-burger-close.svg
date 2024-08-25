@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/close</title>
+    <g id="Startseite---Integration-freenet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fn.de-Tablet-768" transform="translate(-702.000000, -229.000000)" fill="#21314D">
+            <g id="Modul/Navi/Channel/Color-1320" transform="translate(453.000000, 215.000000)">
+                <g id="icon/close" transform="translate(248.636039, 13.636039)">
+                    <rect id="Rectangle" transform="translate(6.363961, 6.363961) rotate(-315.000000) translate(-6.363961, -6.363961) " x="-1.63603897" y="5.36396103" width="16" height="2" rx="1"></rect>
+                    <rect id="Rectangle" transform="translate(6.363961, 6.363961) scale(-1, 1) rotate(-315.000000) translate(-6.363961, -6.363961) " x="-1.63603897" y="5.36396103" width="16" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
